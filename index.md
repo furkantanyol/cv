@@ -8,7 +8,7 @@ title: Furkan Tanyol's CV
 Full Stack Software Engineer
 
 <div id="webaddress">
-<a href="furkantanyol@gmail.com">furkantanyol@gmail.com</a>
+<a href="mailto:furkantanyol@gmail.com">furkantanyol@gmail.com</a>
 | <a href="https://spaceocean.co">My webpage</a>
 </div>
 
@@ -16,9 +16,9 @@ Full Stack Software Engineer
 
 Mid-level software developer with 4 years industry experience working in JavaScript; it's features, frameworks and libraries. Creative, independent, motivated team worker with experience managing small teams. Analytical thinker with strong trouble-shooting, problem-solving, and debugging skills and a background in Electrical and Electronics Engineering. Proven record delivering applications with great user experience and a high degree of polish.
 
-Specialties: React, custom user interfaces, full-stack engineering, design
+**Specialties:** React, full-stack software development, custom user interfaces, design
 
-### Experience
+## Experience
 
 **Frontend Engineer, Cluey Learning, Sydney** `Nov 2019 – Present`
 
@@ -28,9 +28,11 @@ Specialties: React, custom user interfaces, full-stack engineering, design
 **Freelance Full Stack Web Developer, Corin Group, Sydney** `Aug 2019 – Nov 2019`
 
 - Built a dashboard using React & KendoUI, including data visualisation using data tables and graphs, for the surgeons to track their operations.
+
 - The dashboard got **great feedback** from surgeons including improved time-management and easier patient tracking.
+
 - The feedback I got from Corin Group was also very positive after completing the freelance project:
-  <img style="width: 300px" src='https://ftanyol.s3-ap-southeast-2.amazonaws.com/images/corin-feedback.png' alt='feedback' />
+  ![feedback](https://ftanyol.s3-ap-southeast-2.amazonaws.com/images/corin-feedback.png){: style="width:250px; display: block; padding:6px"}
 
 **Visiting Front End Lead, Pubinno, Istanbul** `Aug 2019 – Nov 2019`
 
