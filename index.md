@@ -11,7 +11,7 @@ Full Stack Software Engineer
 <a href="mailto:furkantanyol@gmail.com">furkantanyol@gmail.com</a>
 | <a href="https://spaceocean.co">My webpage</a>
 </div>
-
+ 
 ## Profile
 
 Mid-level software developer with 4 years industry experience working in JavaScript; it's features, frameworks and libraries. Creative, independent, motivated team worker with experience managing small teams. Analytical thinker with strong trouble-shooting, problem-solving, and debugging skills and a background in Electrical and Electronics Engineering. Proven record delivering applications with great user experience and a high degree of polish.
