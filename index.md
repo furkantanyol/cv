@@ -28,9 +28,7 @@ Mid-level software developer with 4 years industry experience working in JavaScr
 **Freelance Full Stack Web Developer, Corin Group, Sydney** `Aug 2019 – Nov 2019`
 
 - Built a dashboard using React & KendoUI, including data visualisation using data tables and graphs, for the surgeons to track their operations.
-
 - The dashboard got **great feedback** from surgeons including improved time-management and easier patient tracking.
-
 - The feedback I got from Corin Group was also very positive after completing the freelance project:
   ![feedback](https://ftanyol.s3-ap-southeast-2.amazonaws.com/images/corin-feedback.png){: style="width:250px; display: block; padding:6px"}
 
