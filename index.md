@@ -7,10 +7,18 @@ title: Furkan Tanyol's CV
 
 Full Stack Software Engineer
 
-<i/>{:class='fas fa-mobile-alt'} &nbsp;+61423062600 &nbsp; &#x0007C; &nbsp;
-<i/>{:class='far fa-envelope'} &nbsp;[furkantanyol@gmail.com](mailto:furkantanyol@gmail.com) &nbsp; &#x0007C; &nbsp;
-<i/>{:class='fa fa-home'} &nbsp;[Website](https://spaceocean.co){:target='_blank_'} &nbsp; &#x0007C; &nbsp;
-<i/>{:class='fab fa-linkedin-in'} &nbsp;[furkan-tanyol](https://www.linkedin.com/in/furkan-tanyol/){:target='_blank_'}
+<span>
+    <i/>{:class='fas fa-mobile-alt'} &nbsp;+61423062600 &nbsp; &#x0007C; &nbsp;
+</span>
+<span>
+    <i/>{:class='far fa-envelope'} &nbsp;[furkantanyol@gmail.com](mailto:furkantanyol@gmail.com) &nbsp; &#x0007C; &nbsp;
+</span>
+<span>
+    <i/>{:class='fa fa-home'} &nbsp;[Website](https://spaceocean.co){:target='_blank_'} &nbsp; &#x0007C; &nbsp;
+</span>
+<span>
+    <i/>{:class='fab fa-linkedin-in'} &nbsp;[furkan-tanyol](https://www.linkedin.com/in/furkan-tanyol/){:target='_blank_'}
+</span>
 
 ## Profile
 
@@ -30,7 +38,7 @@ Mid-level software developer with 4 years industry experience working in JavaScr
 - Built a dashboard using React & KendoUI, including data visualisation using data tables and graphs, for the surgeons to track their operations.
 - The dashboard got **great feedback** from surgeons including **improved time-management** and easier patient tracking.
 - The feedback I got from Corin Group was also very positive after completing the freelance project:
-  ![feedback](https://ftanyol.s3-ap-southeast-2.amazonaws.com/images/corin-feedback.png){: style="width:250px; display: block; padding:6px; margin-top: 1rem; border: 1px solid lightgrey; border-radius: 4px;"}
+  ![feedback](https://ftanyol.s3-ap-southeast-2.amazonaws.com/images/corin-feedback.png){: .feedback-image}
 
 **Visiting Front End Lead, Pubinno, Istanbul** `Aug 2019 – Nov 2019`
 
