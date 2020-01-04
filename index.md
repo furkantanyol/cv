@@ -30,7 +30,7 @@ Specialties: React, custom user interfaces, full-stack engineering, design
 - Built a dashboard using React & KendoUI, including data visualisation using data tables and graphs, for the surgeons to track their operations.
 - The dashboard got **great feedback** from surgeons including improved time-management and easier patient tracking.
 - The feedback I got from Corin Group was also very positive after completing the freelance project:
-  ![alt text](https://ftanyol.s3-ap-southeast-2.amazonaws.com/images/corin-feedback.png)
+  <img style="width: 300px" src='https://ftanyol.s3-ap-southeast-2.amazonaws.com/images/corin-feedback.png' alt='feedback' />
 
 **Visiting Front End Lead, Pubinno, Istanbul** `Aug 2019 – Nov 2019`
 
