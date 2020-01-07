@@ -288,12 +288,18 @@ strong {
 }
 
 .feedback-image {
-  width: 250px;
+  width: 300px;
   display: block;
   padding: 6px;
   margin-top: 1rem;
   border: 1px solid lightgrey;
   border-radius: 4px;
+}
+
+@media screen and (max-width: 400px) {
+  .feedback-image {
+    width: 95%;
+  }
 }
 
 @media screen and (max-width: 980px) {
@@ -314,7 +320,7 @@ strong {
   html,
   body {
     width: 100%;
-    line-height: 5em;
+    line-height: 1.75em;
   }
   h1,
   p,
@@ -337,10 +343,6 @@ strong {
 
   p span {
     display: block;
-  }
-
-  .feedback-image {
-    width: 95%;
   }
 }
 
