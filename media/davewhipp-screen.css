@@ -296,13 +296,7 @@ strong {
   border-radius: 4px;
 }
 
-@media screen and (max-width: 450px) {
-  .feedback-image {
-    width: 95%;
-  }
-}
-
-@media screen and (max-width: 980px) {
+@media (max-width: 980px) {
   p:has(code) {
     display: flex;
     flex-direction: column;
@@ -351,6 +345,15 @@ strong {
 
   p span {
     display: block;
+  }
+}
+
+@media (max-width: 450px) {
+  #content {
+    margin: 0;
+  }
+  .feedback-image {
+    width: 95%;
   }
 }
 
