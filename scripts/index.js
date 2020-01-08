@@ -18,8 +18,10 @@ function toggleDarkMode() {
   link.textContent = isDarkMode ? 'Light Mode' : 'Dark Mode';
   body.classList.toggle('dark-mode');
 
-  const feedbackImage = document.getElementsByClassName('feedback-image')[0];
-  feedbackImage.classList.toggle('feedback-image-dark');
+  const images = document.getElementsByTagName('img');
+  Array.from(images).forEach(el => {
+    el.classList.toggle('image-dark');
+  });
 
   const strongs = document.getElementsByTagName('strong');
   Array.from(strongs).forEach(el => {

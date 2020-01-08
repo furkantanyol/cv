@@ -370,7 +370,7 @@ strong {
   color: white;
 }
 
-.feedback-image-dark {
+.image-dark {
   filter: invert(1);
   border: 1px solid black;
 }
