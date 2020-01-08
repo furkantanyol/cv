@@ -22,7 +22,7 @@ Full Stack Software Engineer
 
 ## Profile
 
-Experienced software developer with 4 years industry experience working in JavaScript; its features, frameworks and libraries. Creative, independent, motivated team worker with experience managing small teams. Analytical thinker with strong trouble-shooting, problem-solving, debugging skills and a background in Electrical and Electronics Engineering. Proven record delivering pixel perfect applications with great user experience.
+Full-stack software developer with 4 years industry experience working in JavaScript; its features, frameworks and libraries. Creative, independent, motivated team worker with experience managing small teams. Analytical thinker with strong trouble-shooting, problem-solving, debugging skills and a background in Electrical and Electronics Engineering. Proven record delivering pixel perfect applications with great user experience.
 
 **Specialties:** React, full-stack software development, custom user interfaces, design
 
