@@ -381,3 +381,7 @@ strong {
   right: 1rem;
   top: 0.5rem;
 }
+
+.strong-dark {
+  color: aquamarine;
+}
