@@ -20,4 +20,9 @@ function toggleDarkMode() {
 
   const feedbackImage = document.getElementsByClassName('feedback-image')[0];
   feedbackImage.classList.toggle('feedback-image-dark');
+
+  const strongs = document.getElementsByTagName('strong');
+  Array.from(strongs).forEach(el => {
+    el.classList.toggle('strong-dark');
+  });
 }
