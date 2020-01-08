@@ -1,15 +1,14 @@
 let isDarkMode = false;
 
-const link = document.getElementById('dark-mode-toggle');
-link.onclick = () => toggleDarkMode();
+const darkModeToggle = document.getElementById('dark-mode-toggle');
+darkModeToggle.onclick = () => toggleDarkMode();
 
-// function savePDF() {
-//   markdownpdf()
-//     .from('../index.md')
-//     .to('/path/to/document.pdf', function() {
-//       console.log('Done');
-//     });
-// }
+const printPdfButton = document.getElementById('print-pdf-button');
+printPdfButton.onclick = () => savePDF();
+
+function savePDF() {
+  window.print();
+}
 
 function toggleDarkMode() {
   const { body } = document;

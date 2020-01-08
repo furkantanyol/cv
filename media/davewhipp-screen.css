@@ -375,8 +375,12 @@ strong {
   border: 1px solid black;
 }
 
-#dark-mode-toggle {
+#dark-mode-toggle,
+#print-pdf-button {
   cursor: pointer;
+}
+
+.actions {
   position: absolute;
   right: 1rem;
   top: 0.5rem;
