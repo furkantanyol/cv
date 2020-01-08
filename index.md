@@ -22,7 +22,7 @@ Full Stack Software Engineer
 
 ## Profile
 
-Mid-level software developer with 4 years industry experience working in JavaScript; its features, frameworks and libraries. Creative, independent, motivated team worker with experience managing small teams. Analytical thinker with strong trouble-shooting, problem-solving, debugging skills and a background in Electrical and Electronics Engineering. Proven record delivering pixel perfect applications with great user experience.
+Experienced software developer with 4 years industry experience working in JavaScript; its features, frameworks and libraries. Creative, independent, motivated team worker with experience managing small teams. Analytical thinker with strong trouble-shooting, problem-solving, debugging skills and a background in Electrical and Electronics Engineering. Proven record delivering pixel perfect applications with great user experience.
 
 **Specialties:** React, full-stack software development, custom user interfaces, design
 
@@ -52,7 +52,7 @@ Mid-level software developer with 4 years industry experience working in JavaScr
 - Created many web applications using React including a marketplace, a dashboard and several SPA's that _assured the market recognition_ of Incent.
 - Created a smart Dynamic Form component that consumes the Yodlee RESTful API that allows developers to access personal financial data. This component uses the banks' data to create MFA powered login forms _enabling users to connect their banks securely_ to Incent platform _swiftly_ by filling out the login form for each bank.
 - **Trained a junior** front end developer on HTML, CSS, JS and React best practices, writing code in a functional style. This training **reduced the time consumption** for the tasks.
-- Created a “Drop Code” React application that enabled e-game watchers to earn cryptocurrency while watching game videos.
+- Created a "Drop Code" React application that enabled e-game watchers to earn cryptocurrency while watching game videos.
 
 **Software Engineer, Industrie&Co, Sydney** `Dec 2017 – Mar 2018`
 
