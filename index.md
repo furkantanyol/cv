@@ -38,7 +38,7 @@ Full-stack software developer with 4 years industry experience working in JavaSc
 - Built a dashboard using React & KendoUI, including data visualisation using data tables and graphs, for the surgeons to track their operations.
 - The dashboard got **great feedback** from surgeons including **improved time-management** and easier patient tracking.
 - The feedback I got from Corin Group was also very positive after completing the freelance project:
-  ![feedback](https://ftanyol.s3-ap-southeast-2.amazonaws.com/images/corin-feedback.png){: .feedback-image}
+  ![feedback](https://ftanyol.s3-ap-southeast-2.amazonaws.com/images/corin-feedback.png){: .feedback-image }
 
 **Visiting Front End Lead, Pubinno, Istanbul** `Aug 2019 – Nov 2019`
 

@@ -364,3 +364,20 @@ strong {
     width: 100%;
   }
 }
+
+.dark-mode {
+  background-color: black;
+  color: white;
+}
+
+.feedback-image-dark {
+  filter: invert(1);
+  border: 1px solid black;
+}
+
+#dark-mode-toggle {
+  cursor: pointer;
+  position: absolute;
+  right: 1rem;
+  top: 0.5rem;
+}
