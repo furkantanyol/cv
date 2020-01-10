@@ -17,7 +17,10 @@ Full Stack Software Engineer
     <i/>{:class='fa fa-home'} &nbsp;[Website](https://spaceocean.co){:target='_blank_'} &nbsp; &#x0007C; &nbsp;
 </span>
 <span>
-    <i/>{:class='fab fa-linkedin-in'} &nbsp;[furkan-tanyol](https://www.linkedin.com/in/furkan-tanyol/){:target='_blank_'}
+    <i/>{:class='fab fa-github'} &nbsp;[GitHub](https://github.com/furkantanyol){:target='_blank_'} &nbsp; &#x0007C; &nbsp;
+</span>
+<span>
+    <i/>{:class='fab fa-linkedin-in'} &nbsp;[LinkedIn](https://www.linkedin.com/in/furkan-tanyol/){:target='_blank_'}
 </span>
 
 ## Profile
