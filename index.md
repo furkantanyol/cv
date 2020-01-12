@@ -33,7 +33,7 @@ Full-stack software developer with 4 years industry experience working in JavaSc
 
 **Frontend Engineer, Cluey Learning, Sydney** `Nov 2019 – Present`
 
-- From day one, managed to **double** the work load completed for each sprint, _double story points in average_, for the main product: learning platform.
+- From day one, **doubled the work load completed** for each sprint, _double story points in average_, for the main product: learning platform.
 - Implemented the new user interface of the learning platform including the major React components and relevant NodeJS microservices. The new user interface launched in 2020 and got almost **100% positive feedback** from **more than 350** tutors and students who are using the platform to support their education.
 
 **Freelance Full Stack Web Developer, Corin Group, Sydney** `Aug 2019 – Nov 2019`
@@ -113,7 +113,8 @@ Interaction with backend systems, handling HTTP requests
 ### Back End
 
 **NodeJS** - Express<br/>
-**Python** - Django
+**Python** - Django<br/>
+SQL, Postgres, REST, GraphQL
 
 ### Testing
 
