@@ -152,13 +152,6 @@ Git, Github, Gitlab, Trello, Jira, Bitbucket
 - Participated in the decision-making and management process of maintaining the goal of creating a global environment among students, encouraging sustainability and developing interpersonal skills.
 - Helped carrying out 15+ events with the team during the semester to initiate global friendships among students.
 
-**Koç University** `2010-2015`
-
-- BSc, Electrical & Electronics Engineering
-- BSc, Industrial Engineering (Double Major)
-- Partial Scholarship
-- GPA: 3.2/4.0
-
 <!-- ### Footer
 
 Last updated: May 2013 -->

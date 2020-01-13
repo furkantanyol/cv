@@ -137,6 +137,8 @@ table {
 /* end of reset */
 
 body {
+  background-color: #fcfdfe;
+  color: #2a2b2a;
   font: normal 400;
   font-size: 100%;
   line-height: 1.75em;
@@ -177,7 +179,7 @@ ul {
   width: 70%;
 }
 
-p:has(code) {
+.job-title {
   display: flex;
   justify-content: space-between;
 }
@@ -236,7 +238,7 @@ h1 + p {
 }
 
 h2 {
-  font-size: 1.1em;
+  font-size: 24px;
   color: #bc412b;
   margin-top: 1.5rem;
   position: relative;
@@ -297,7 +299,7 @@ strong {
 }
 
 @media (max-width: 980px) {
-  p:has(code) {
+  .job-title {
     display: flex;
     flex-direction: column;
   }
@@ -349,11 +351,22 @@ strong {
 }
 
 @media (max-width: 450px) {
+  .job-title {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
   #content {
     margin: 0;
   }
   .feedback-image {
     width: 95%;
+  }
+  h1 {
+    margin-top: 2rem;
+  }
+  h2 {
+    margin-bottom: 1rem;
   }
 }
 

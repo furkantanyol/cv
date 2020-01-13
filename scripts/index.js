@@ -6,6 +6,18 @@ darkModeToggle.onclick = () => toggleDarkMode();
 const printPdfButton = document.getElementById('print-pdf-button');
 printPdfButton.onclick = () => savePDF();
 
+// Fix the mobile dates start
+const titleParagraphs = Array.from(document.getElementsByTagName('p')).filter(
+  el => {
+    return (
+      Array.from(el.childNodes).filter(cn => cn.tagName === 'CODE').length > 0
+    );
+  }
+);
+
+titleParagraphs.forEach(p => p.classList.add('job-title'));
+// Fix the mobile dates end
+
 function savePDF() {
   window.print();
 }
