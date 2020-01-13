@@ -80,7 +80,7 @@ Full-stack software developer with 4 years industry experience working in JavaSc
 
 ## Education
 
-**CEMS – The Global Alliance in Management Education**
+**CEMS – The Global Alliance in Management Education** `2016 - 2017`
 
 - MS, International Management
 - Full Scholarship
