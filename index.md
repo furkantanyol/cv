@@ -47,7 +47,7 @@ Full-stack software developer with 4 years industry experience working in JavaSc
 
 - Built an admin dashboard using React & Redux for Pubinno's internal operations. This dashboard included device management, process management, data & analytics navigation, manipulation and visualisation.
 - Built a live product timeline component that visualises the product lifetime, and informs Pubinno about product updates (errors, warnings etc.).
-- The new features and product/device data being transparent **improved the operation efficiency** by almost **up to 300%**, and contributed _Pubinno's local/global expansion_ by imrpoving it's maneuver ability as a startup.
+- The new features and product/device data being transparent **improved the operation efficiency** by almost **up to 300%**, and contributed _Pubinno's local/global expansion_ by improving it's maneuver ability as a startup.
 - Created a company VPN using AWS EC2 and OpenVPN that **enabled high security measures** to the technical operations of the company.
 
 **Front End Engineer, Incent Loyalty, Sydney** `Mar 2018 – Jun 2019`
@@ -59,8 +59,8 @@ Full-stack software developer with 4 years industry experience working in JavaSc
 
 **Software Engineer, Industrie&Co, Sydney** `Dec 2017 – Mar 2018`
 
-- Implemented a timeline based workforce monitoring app using React and Redux to replace Excel sheets to track consultants availibility. This application made the workload and availability of the consultants **100%** transparent to the management and **improved work efficiency** of the company.
-- Was assigned to a large corporate company as an all-around technical consultant. Quickly **improved the product quality** by writing code. **Improved teamwork and relationships** by dividing big teams to smaller ones and by applying and ımplementıng daily standups. Made product delivery more efficient and swift by introducing agile principles.
+- Implemented a timeline based workforce monitoring app using React and Redux to replace Excel sheets to track consultants availability. This application made the workload and availability of the consultants **100%** transparent to the management and **improved work efficiency** of the company.
+- Was assigned to a large corporate company as an all-around technical consultant. Quickly **improved the product quality** by writing code. **Improved teamwork and relationships** by dividing big teams to smaller ones and by applying and implementing daily standups. Made product delivery more efficient and swift by introducing agile principles.
 - In my short contract period, I got the **Industrie&Co kudos prize** two months back to back for **great client feedback** and for quickly solving internal problems.
 - Rapidly delivered and extended a CMS using Django Rest framework with GrapesJS wysiwyg that **sped up the process** of updating assets and pages in the website.
 
