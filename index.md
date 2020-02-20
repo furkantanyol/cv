@@ -37,14 +37,21 @@ Full-stack software developer with 4 years industry experience working in JavaSc
 - Implemented the new user interface of the learning platform including the major React components and relevant NodeJS micro-services. The new user interface launched in 2020 and got almost **100% positive feedback** from **more than 350** tutors and students who are using the platform to support their education.
 - After a software engineer resigning from his team, I took over his recently commenced project. This project was automating the rescheduling of the sessions with a new React web application. I was able to successfully deliver the project on time in one week. This has resulted in a **significant reduction of time (from 10-15 minutes with human interaction to 2-5 minutes with the app), energy and monetary value** for the team as we no longer require a human interaction and human-dependant function when rescheduling sessions.
 
-**Freelance Full Stack Web Developer, Corin Group, Sydney** `Aug 2019 – Nov 2019`
+**Freelance Full Stack Engineer, Corin Group & Urban Engine, Remote** `Aug 2019 – Nov 2019`
 
+Corin Group
 - Built a dashboard using React & KendoUI, including data visualization using data tables and graphs, for the surgeons to track their operations.
 - The dashboard got **great feedback** from surgeons including **improved time-management** and easier patient tracking.
 - The feedback I got from Corin Group was also very positive after completing the freelance project:
-  ![feedback](https://ftanyol.s3-ap-southeast-2.amazonaws.com/images/corin-feedback.png){: .feedback-image }
+  ![feedback](https://storage.cloud.google.com/spaceocean/corin.png){: .feedback-image }
 
-**Visiting Front End Lead, Pubinno, Istanbul** `Aug 2019 – Nov 2019`
+Urban Engine
+- In a week, **quickly implemented** the base of a **complex interactive maps web application** using Mapbox and jQuery for a government project.
+- The **users loved the ease-of-use and device compatibility** of such a complex maps application.
+- Urban Engine feedback was also worthy of mention after completing the freelance project:
+  ![feedback](https://storage.cloud.google.com/spaceocean/urban-engine.png){: .feedback-image }
+
+**Visiting Front End Lead, Pubinno, Istanbul** `Jul 2019 – Aug 2019`
 
 - Built an admin dashboard using React & Redux for Pubinno's internal operations. This dashboard included device management, process management, data & analytics navigation, manipulation and visualization.
 - Built a live product timeline component that visualizes the product lifetime, and informs Pubinno about product updates (errors, warnings etc.).
@@ -62,7 +69,7 @@ Full-stack software developer with 4 years industry experience working in JavaSc
 
 - Implemented a timeline based workforce monitoring app using React and Redux to replace Excel sheets to track consultants availability. This application made the workload and availability of the consultants **100%** transparent to the management and **improved work efficiency** of the company.
 - Was assigned to a large corporate company as an all-around technical consultant. Quickly **improved the product quality** by writing code. **Improved teamwork and relationships** by dividing big teams to smaller ones and by applying and implementing daily stand-ups. Made product delivery more efficient and swift by introducing agile principles.
-- In my short contract period, I got the **Industrie&Co kudos prize** two months back to back for **great client feedback** and for quickly solving internal problems.
+- In my short contract period, I won the **Industrie&Co kudos prize** two months back to back for **great client feedback** and for quickly solving internal problems.
 - Rapidly delivered and extended a CMS using Django Rest framework with GrapesJS wysiwyg that **sped up the process** of updating assets and pages in the website.
 
 **Full Stack Engineer, Secure Code Warrior, Sydney** `Apr – Nov 2017`
@@ -104,10 +111,12 @@ Full-stack software developer with 4 years industry experience working in JavaSc
 
 ### Front End
 
-**JavaScript & TypeScript** - prefer using ES6 features and functional programming paradigms<br/>
+**JavaScript** - prefer using ES6 features and functional programming paradigms<br/>
 **HTML, CSS** - mobile first, cross-device, cross-browser<br/>
+**TypeScript, Flow** - for type-checking<br/>
 **React** - as preferred JS library<br/>
 **Redux, Mobx** - for state management<br/>
+**GatsbyJS, NextJS** - for static site generation and server-side rendering<br/>
 **Sass, Less, CSS in JS** - for CSS processing<br/>
 Interaction with backend systems, handling HTTP requests
 
