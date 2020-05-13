@@ -14,7 +14,7 @@ Full Stack Software Engineer
     <i/>{:class='far fa-envelope'} &nbsp;[furkantanyol@gmail.com](mailto:furkantanyol@gmail.com) &nbsp; &#x0007C; &nbsp;
 </span>
 <span>
-    <i/>{:class='fa fa-home'} &nbsp;[Website](https://spaceocean.co){:target='_blank_'} &nbsp; &#x0007C; &nbsp;
+    <i/>{:class='fa fa-home'} &nbsp;[Website (WIP)](https://spaceocean.co){:target='_blank_'} &nbsp; &#x0007C; &nbsp;
 </span>
 <span>
     <i/>{:class='fab fa-github'} &nbsp;[GitHub](https://github.com/furkantanyol){:target='_blank_'} &nbsp; &#x0007C; &nbsp;
@@ -25,13 +25,25 @@ Full Stack Software Engineer
 
 ## Profile
 
-Full-stack software developer with 4 years industry experience working in JavaScript; its features, frameworks and libraries. Creative, independent, motivated team worker with experience managing small teams. Analytical thinker with strong trouble-shooting, problem-solving, debugging skills and a background in Electrical and Electronics Engineering. Proven record delivering pixel perfect applications with great user experience.
+Full-stack software engineer with almost 5 years industry experience working in JavaScript, it's features, frameworks and libraries. Creative, independent, motivated team worker with experience managing small teams. Analytical thinker with strong trouble-shooting, problem-solving, debugging skills and a background in Electrical and Electronics Engineering. Proven record delivering pixel perfect applications with great user experience.
 
 **Specialties:** React, full-stack software development, custom user interfaces, design
 
 ## Experience
 
-**Frontend Engineer, Cluey Learning, Sydney** `Nov 2019 – Present`
+**Software Engineer, Secure Code Warrior, Sydney** `Apr – Nov 2017 / Mar 2020 - Present`
+
+_Mar 2020 – Present_
+
+- Quickly grasped the workflow in the huge codebase and started contributing to the migration from old generator-based KoaJS micro-services to 100% unit tested Node + TypeScript API packages using ESNext including async/await.
+- **Lead the interactive peer-coding sessions** with other engineers to level up the common best practice knowledge within the codebase.
+
+_Apr – Nov 2017_
+
+- Implemented ratings, badges, daily missions and power-ups features for the SCW online learning platform. Used NodeJS to create the micro-services and AngularJS to create the UI.
+- These features contributed to the gamification aspect of the platform that **boosted the user engagement.**
+
+**Frontend Engineer, Cluey Learning, Sydney** `Nov 2019 – Mar 2020`
 
 - From day one, **doubled the work load completed** for each sprint, _double story points in average_, for the main product: learning platform.
 - Implemented the new user interface of the learning platform including the major React components and relevant NodeJS micro-services. The new user interface launched in 2020 and got almost **100% positive feedback** from **more than 350** tutors and students who are using the platform to support their education.
@@ -40,12 +52,14 @@ Full-stack software developer with 4 years industry experience working in JavaSc
 **Freelance Full Stack Engineer, Corin Group & Urban Engine, Remote** `Aug 2019 – Nov 2019`
 
 Corin Group
+
 - Built a dashboard using React & KendoUI, including data visualization using data tables and graphs, for the surgeons to track their operations.
 - The dashboard got **great feedback** from surgeons including **improved time-management** and easier patient tracking.
 - The feedback I got from Corin Group was also very positive after completing the freelance project:
   ![feedback](https://storage.cloud.google.com/spaceocean/corin.png){: .feedback-image }
 
 Urban Engine
+
 - In a week, **quickly implemented** the base of a **complex interactive maps web application** using Mapbox and jQuery for a government project.
 - The **users loved the ease-of-use and device compatibility** of such a complex maps application.
 - Urban Engine feedback was also worthy of mention after completing the freelance project:
@@ -71,11 +85,6 @@ Urban Engine
 - Was assigned to a large corporate company as an all-around technical consultant. Quickly **improved the product quality** by writing code. **Improved teamwork and relationships** by dividing big teams to smaller ones and by applying and implementing daily stand-ups. Made product delivery more efficient and swift by introducing agile principles.
 - In my short contract period, I won the **Industrie&Co kudos prize** two months back to back for **great client feedback** and for quickly solving internal problems.
 - Rapidly delivered and extended a CMS using Django Rest framework with GrapesJS wysiwyg that **sped up the process** of updating assets and pages in the website.
-
-**Full Stack Engineer, Secure Code Warrior, Sydney** `Apr – Nov 2017`
-
-- Implemented ratings, badges, daily missions and power-ups features for the SCW online learning platform. Used NodeJS for the micro-services and AngularJS to create the UI.
-- These features contributed to the gamification aspect of the platform that **boosted the user engagement.**
 
 **Front End Developer, Koç University, Istanbul** `Sep 2016 – Feb 2017`
 
@@ -111,28 +120,30 @@ Urban Engine
 
 ### Front End
 
-**JavaScript** - prefer using ES6 features and functional programming paradigms<br/>
+**JavaScript** - prefer using ESNext features and functional programming paradigms<br/>
 **HTML, CSS** - mobile first, cross-device, cross-browser<br/>
 **TypeScript, Flow** - for type-checking<br/>
-**React** - as preferred JS library<br/>
+**React** - as preferred JS library, also have Vue & Angular knowledge<br/>
+**React Native** - as preferred native mobile app development<br/>
 **Redux, Mobx** - for state management<br/>
 **GatsbyJS, NextJS** - for static site generation and server-side rendering<br/>
 **Sass, Less, CSS in JS** - for CSS processing<br/>
-Interaction with backend systems, handling HTTP requests
+Interaction with backend systems, handling HTTP requests, handling errors
 
 ### Back End
 
 **NodeJS** - Express<br/>
 **Python** - Django<br/>
-SQL, Postgres, REST, GraphQL
+SQL, MongoDB, Postgres, REST, GraphQL
 
 ### Testing
 
-**Jest** - TDD, **Enzyme** with React
+**Jest** - TDD, **Enzyme** with React<br/>
+**Mocha** - TDD, with **Chai**
 
 ### Tools/Libraries
 
-Webpack, Gulp, Storybook, Material UI, Kendo UI, Bootstrap, Rambda, Lodash etc.
+Webpack, Gulp, Storybook, Material UI, Ant, Kendo UI, Bootstrap, Rambda, Lodash etc.
 
 ### Design
 
